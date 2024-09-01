@@ -2,7 +2,8 @@
 
 ## Description
 
----- Add a brief description here ----
+The SVG logo maker is a tool to not only design simple effective logos, but 
+to also ensure they generate as efficiently as possible.
 
 ## Getting Started
 
@@ -24,7 +25,7 @@ You can find the `logo.svg` file in the root of this project.
 
 ## Link to Video Demonstration
 
----- Add a link here to the video you made and have alread uploaded ----
+[Video](https://drive.google.com/file/d/1_l_zevzIRnObjsSF1pZdo_Wwq00smUMr/view)
 
 ## Your Task
 
