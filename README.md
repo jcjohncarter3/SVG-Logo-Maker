@@ -1,5 +1,31 @@
 # 10 Object-oriented Programming: SVG Logo Maker
 
+## Description
+
+---- Add a brief description here ----
+
+## Getting Started
+
+### Install dependencies
+
+`npm install`
+
+### To start the app
+
+`node index.js`
+
+### To start the unit tests
+
+`npm run test` or `jest`
+
+### Where to find and preview logo.svg?
+
+You can find the `logo.svg` file in the root of this project.
+
+## Link to Video Demonstration
+
+---- Add a link here to the video you made and have alread uploaded ----
+
 ## Your Task
 
 Your task is to build a Node.js command-line application that takes in user input to generate a logo and save it as an [SVG file](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics). The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.

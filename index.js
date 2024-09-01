@@ -56,6 +56,7 @@ function init() {
           console.error(err);
         } else {
           // file written successfully
+          console.log("Generated logo.svg");
         }
       });
 
